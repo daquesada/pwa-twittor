@@ -1,3 +1,9 @@
+// {
+//   "src": "favicon.ico",
+//   "sizes": "64x64",
+//   "type": "image/x-icon"
+// },
+
 //imports
 importScripts("js/sw-utils.js");
 
